@@ -1,0 +1,19 @@
+#countdown {
+  min-width: 600px;
+  min-height: 100px;
+  width: auto;
+  height: auto;
+  padding: 20px;
+  border: 2px solid rgba(0, 0, 0, 1);
+
+  font-family: "Lato";
+  font-size: 30px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  span {
+    margin: 0 5px;
+  }
+}
